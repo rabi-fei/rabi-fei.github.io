@@ -1,64 +1,55 @@
 {
   "basics": {
     "name": "Weizhi Fei",
-    "email": "none@example.org",
+    "email": "fwz22@mails.tsinghua.edu.cn",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "I am currently third-year a Ph.D. candidate in the Department of Mathematical Science at Tsinghua University.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Beijing",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=97wX854AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/my-orcid?orcid=0009-0000-1709-1605"
       },
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://github.com/rabi-fei"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Tsinghua  University",
+      "area": "Ph.D. candidate in Computational Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2018",
+      "endDate": "2022",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Central South University",
+      "area": "Bachelor of Applied Mathematics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2022",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
   "skills": [],
   "languages": [],
