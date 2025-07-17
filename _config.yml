@@ -22,7 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Fei_blue.jpeg
+  "
   name             : "Weizhi Fei"
   pronouns         : # example: "she/her"  
   bio              : "I am currently third-year a Ph.D. candidate in the Department of Mathematical Science at Tsinghua University."
