@@ -17,8 +17,9 @@ My research investigate knowledge representation and reasoning from a mathematic
 Publications
 ======
 
-1. Extending Complex Logical Queries on Uncertain Knowledge Graphs, **Weizhi Fei**, Zihao Wang, Hang Yin, Yang Duan, Yangqiu Song,
-   ,Accepted by Main conference of Association for Computational Linguistics 2025, **Top NLP Conference**.
+1. Extending Complex Logical Queries on Uncertain Knowledge Graphs
+   **Weizhi Fei**, Zihao Wang, Hang Yin, Yang Duan, Yangqiu Song,
+   Accepted by Main conference of Association for Computational Linguistics 2025, **Top NLP Conference**.
 3. EFOk-CQA: Towards Knowledge Graph Complex Query Answering beyond Set Operation
 4. Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport
 5. Extending Context Window of Large Language Models via Semantic Compression
