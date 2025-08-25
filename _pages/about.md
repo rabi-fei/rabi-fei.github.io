@@ -26,6 +26,7 @@ Publications
 Preprints
 ======
 1. Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference
-2. Efficient and Scalable Neural Symbolic Search for Knowledge Graph Complex Query 
-3. Top ten challenges towards agentic neural graph databases
+2. NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural KV Database
+3. Efficient and Scalable Neural Symbolic Search for Knowledge Graph Complex Query 
+4. Top ten challenges towards agentic neural graph databases
 
