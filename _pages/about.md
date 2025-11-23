@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My research investigate knowledge representation and reasoning from a mathematical perspective, including:
+My research is devoted to the development of efficient and effective machine learning systems with powerful mathematical tools. My works are generally about machine learning for NLP, including:
 1. **Neural graph database**: reasons complex logical queries over large, incomplete knowledge graphs.
 2. **Prompt compression**: compresses inputted prompt of LLMs to facilitate long context inference.
 3. **Knowledge editing**: modify parametric knowledge quickly and precisely in LLMs.
