@@ -25,7 +25,7 @@ author:
   avatar           : Fei_blue.png
   name             : "Weizhi Fei"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year a Ph.D. candidate in the Department of Mathematical Science at Tsinghua University."
+  bio              : "Forth-year a Ph.D. candidate in the Department of Mathematical Science at Tsinghua University."
   location         : "Beijing"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -43,13 +43,12 @@ author:
   # Repositories and software development
   codepen          : # Username
   dribbble         : # Username
-  github           : "rabi-fei"
+  github           : "https://github.com/rabi-fei"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
