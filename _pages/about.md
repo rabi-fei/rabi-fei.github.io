@@ -27,7 +27,7 @@ Publications
 4. Extending Context Window of Large Language Models via Semantic Compression,
   **Weizhi Fei**, Xueyan Niu, Pingyi Zhou, Lu Hou, Bo Bai, Lei Deng, Wei Han, Accepted by Findings of Association for Computational Linguistics 2024, **(ACL Findings, Top NLP Conference)**.
 5. Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport,
-  Zihao Wang, **Weizhi Fei**, Hang Yin, Yangqiu Song, Ginny Y Wong, Simon See, Accepted by Findings of Association for Computational Linguistics 2024, **(ACL Findings, Top NLP Conference)**.
+  Zihao Wang, **Weizhi Fei**, Hang Yin, Yangqiu Song, Ginny Y Wong, Simon See, Accepted by Findings of Association for Computational Linguistics 2023, **(ACL Findings, Top NLP Conference)**.
 
 
 Preprints
