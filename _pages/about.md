@@ -17,17 +17,18 @@ My research is devoted to the development of efficient and effective machine lea
 Publications
 ======
 
-1. Extending Complex Logical Queries on Uncertain Knowledge Graphs,
+1. Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference,
+  **Weizhi Fei**, Xueyan Niu, Guoqing Xie, Yingqing Liu, Bo Bai, Wei Hann, Accepted by Neural Information Processing Systems 2025, **(NeurIPS Spotlight, Top 3.2%)**.
+2. Extending Complex Logical Queries on Uncertain Knowledge Graphs,
    **Weizhi Fei**, Zihao Wang, Hang Yin, Yang Duan, Yangqiu Song,
    Accepted by Main conference of Association for Computational Linguistics 2025, **(ACL main, Top NLP Conference)**.
-2. EFOk-CQA: Towards Knowledge Graph Complex Query Answering beyond Set Operation,
+3. EFOk-CQA: Towards Knowledge Graph Complex Query Answering beyond Set Operation,
     Hang Yin, Zihao Wang, **Weizhi Fei**, Yangqiu Song, Accepted by Dataset and benchmark track of Knowledge Discover and Data-mining 2025, **(KDD dataset track, Top Data-mining Conference, Oral)**.
-3. Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport,
-  Zihao Wang, **Weizhi Fei**, Hang Yin, Yangqiu Song, Ginny Y Wong, Simon See, Accepted by Findings of Association for Computational Linguistics 2024, **(ACL Findings, Top NLP Conference)**.
 4. Extending Context Window of Large Language Models via Semantic Compression,
   **Weizhi Fei**, Xueyan Niu, Pingyi Zhou, Lu Hou, Bo Bai, Lei Deng, Wei Han, Accepted by Findings of Association for Computational Linguistics 2024, **(ACL Findings, Top NLP Conference)**.
-5. Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference,
-  **Weizhi Fei**, Xueyan Niu, Guoqing Xie, Yingqing Liu, Bo Bai, Wei Hann, Accepted by Neural Information Processing Systems 2025, **(NeurIPS Spotlight, Top 3.2%)**.
+5. Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport,
+  Zihao Wang, **Weizhi Fei**, Hang Yin, Yangqiu Song, Ginny Y Wong, Simon See, Accepted by Findings of Association for Computational Linguistics 2024, **(ACL Findings, Top NLP Conference)**.
+
 
 Preprints
 ======
