@@ -25,12 +25,13 @@ Publications
 3. Wasserstein-Fisher-Rao Embedding: Logical Query Embeddings with Local Comparison and Global Transport,
   Zihao Wang, **Weizhi Fei**, Hang Yin, Yangqiu Song, Ginny Y Wong, Simon See, Accepted by Findings of Association for Computational Linguistics 2024, **(ACL Findings, Top NLP Conference)**.
 4. Extending Context Window of Large Language Models via Semantic Compression,
-  **Weizhi Fei**,, Xueyan Niu, Pingyi Zhou, Lu Hou, Bo Bai, Lei Deng, Wei Han, Accepted by Findings of Association for Computational Linguistics 2024, **(ACL Findings, Top NLP Conference)**.
+  **Weizhi Fei**, Xueyan Niu, Pingyi Zhou, Lu Hou, Bo Bai, Lei Deng, Wei Han, Accepted by Findings of Association for Computational Linguistics 2024, **(ACL Findings, Top NLP Conference)**.
+5. Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference,
+  **Weizhi Fei**, Xueyan Niu, Guoqing Xie, Yingqing Liu, Bo Bai, Wei Hann, Accepted by Neural Information Processing Systems 2025, **(NeurIPS Spotlight, Top 3.2%)**.
 
 Preprints
 ======
-1. Efficient Prompt Compression with Evaluator Heads for Long-Context Transformer Inference
-2. NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural KV Database
-3. Efficient and Scalable Neural Symbolic Search for Knowledge Graph Complex Query 
-4. Top ten challenges towards agentic neural graph databases
+1. NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural KV Database
+2. Efficient and Scalable Neural Symbolic Search for Knowledge Graph Complex Query 
+3. Top ten challenges towards agentic neural graph databases
 
